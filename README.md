@@ -44,12 +44,12 @@ cd $HOME && git clone https://github.com/ZakariaRasoli/VenusHelper.git && cd Ven
 
 # Developers!
 
-[Zakaria](https://github.com/ZakariaRasoli) ([Telegram](https://t.me/ZakariaR))
+## [Zakaria](https://github.com/ZakariaRasoli) ([Telegram](https://t.me/ZakariaR))
 
 
 ## Our Telegram channel:
 
-[@VenusOfficial](https://t.me/VenusOfficial)
+## [@VenusOfficial](https://t.me/VenusOfficial)
 
 ## Thanks To :
-[BeyondTeam](https://t.me/beyondteam)
+## [BeyondTeam](https://t.me/beyondteam)
